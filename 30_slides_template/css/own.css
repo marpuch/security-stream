@@ -1,0 +1,17 @@
+.hide {
+    opacity: 0.5;
+}
+
+.reveal section img.plain {
+  border: 0;
+  box-shadow: none; 
+  background: none; }
+
+.code {
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace !important; 
+	background: rgb(20, 20, 20);
+}
+
+.highlight {
+    color: #9e9eff
+}
